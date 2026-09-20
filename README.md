@@ -1,0 +1,2 @@
+# -Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture
+This project demonstrates a multi-branch enterprise network designed in Cisco Packet Tracer.  The network connects a **Head Office in Lahore** with a **Branch Office in Islamabad** through an ISP network. The design includes network redundancy, VLAN segmentation, dynamic routing, DHCP, NAT/PAT, ACLs, and Site-to-Site IPsec VPN connectivity.
